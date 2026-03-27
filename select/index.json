@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "秘密",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-03-27T06:21:22.019097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "不能说的*秘密",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/01_不能说的_秘密_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "秘密",
+      "artist": "張震嶽",
+      "has_synced": false,
+      "path": "select/02_秘密_張震嶽.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "秘密",
+      "artist": "Suga Shikao",
+      "has_synced": true,
+      "path": "select/03_秘密_Suga_Shikao.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "秘密",
+      "artist": "東京事変",
+      "has_synced": true,
+      "path": "select/04_秘密_東京事変.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Himitsu [秘密]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/05_Himitsu_[秘密]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "秘密",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/06_秘密_sumika.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "秘密",
+      "artist": "劉惜君",
+      "has_synced": true,
+      "path": "select/07_秘密_劉惜君.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "秘密",
+      "artist": "刘惜君",
+      "has_synced": true,
+      "path": "select/08_秘密_刘惜君.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "秘密",
+      "artist": "獅子",
+      "has_synced": false,
+      "path": "select/09_秘密_獅子.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "秘密",
+      "artist": "Yoko Minamino",
+      "has_synced": true,
+      "path": "select/10_秘密_Yoko_Minamino.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "秘密",
+      "artist": "Minamino, Youko",
+      "has_synced": true,
+      "path": "select/11_秘密_Minamino,_Youko.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "秘密",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/12_秘密_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "秘密",
+      "artist": "伊藤蘭",
+      "has_synced": false,
+      "path": "select/13_秘密_伊藤蘭.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "秘密～待ち合わせ～",
+      "artist": "Yui Horie",
+      "has_synced": false,
+      "path": "select/14_秘密~待ち合わせ~_Yui_Horie.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "秘密",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_秘密_SUPER_BEAVER.txt"
+    }
+  ]
+}
